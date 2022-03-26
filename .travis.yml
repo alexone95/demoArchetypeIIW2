@@ -1,4 +1,0 @@
-language: java
-rvm:
-  - 18.0
-  - java
